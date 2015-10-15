@@ -24,3 +24,7 @@ TreeMix: convert_treemix.r
 
 
 Here, the STRUCTURE file is assumed to have diploid organisms, two rows for each SNP, and have a header column containing the names of each locus. The population map has the name of each individual and their associated population/locality (numeric) in a two column tab-delimited file.
+
+
+
+Script to calculate shared, fixed, and private polymorphisms (annotated and explained within script): polymorphisms.r
